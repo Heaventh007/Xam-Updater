@@ -2,6 +2,8 @@
 Another simple tool, this one just helps with updating the xam executable.
 - xextool is requrired for this tool. (You can find it in the releases page)
 
+[Xam Updater Download](https://github.com/Heaventh007/Xam-Updater/releases)
+
 ## How to use
 
 - Extract any SystemUpdate later than 1888. (This can be done with a tool like Horizon) 
